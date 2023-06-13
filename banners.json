@@ -1,0 +1,4468 @@
+[
+    {
+        "name": "Abandoned Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -493,
+            "y": 105,
+            "z": -1348
+        }
+    },
+    {
+        "name": "Abandoned Manor",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -856,
+            "y": 47,
+            "z": -5174
+        }
+    },
+    {
+        "name": "Abandoned Pass",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 961,
+            "y": 36,
+            "z": -1261
+        }
+    },
+    {
+        "name": "Active Volcano",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1316,
+            "y": 8,
+            "z": -5455
+        }
+    },
+    {
+        "name": "Ahmsord",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1009,
+            "y": 112,
+            "z": -4568
+        }
+    },
+    {
+        "name": "Ahmsord Outskirts",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1257,
+            "y": 126,
+            "z": -4808
+        }
+    },
+    {
+        "name": "Air Temple Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 496,
+            "y": 31,
+            "z": -4950
+        }
+    },
+    {
+        "name": "Air Temple Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 452,
+            "y": 107,
+            "z": -4765
+        }
+    },
+    {
+        "name": "Aldorei Lowlands",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -275,
+            "y": 36,
+            "z": -4705
+        }
+    },
+    {
+        "name": "Aldorei Valley Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -634,
+            "y": 94,
+            "z": -4446
+        }
+    },
+    {
+        "name": "Aldorei Valley Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -525,
+            "y": 103,
+            "z": -4471
+        }
+    },
+    {
+        "name": "Aldorei Valley South Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -177,
+            "y": 37,
+            "z": -4576
+        }
+    },
+    {
+        "name": "Aldorei Valley Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -390,
+            "y": 71,
+            "z": -4605
+        }
+    },
+    {
+        "name": "Aldorei Valley West Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -737,
+            "y": 83,
+            "z": -4442
+        }
+    },
+    {
+        "name": "Aldorei's Arch",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 74,
+            "y": 43,
+            "z": -4447
+        }
+    },
+    {
+        "name": "Aldorei's North Exit",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -55,
+            "y": 38,
+            "z": -4575
+        }
+    },
+    {
+        "name": "Aldorei's River",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -381,
+            "y": 36,
+            "z": -4723
+        }
+    },
+    {
+        "name": "Aldorei's Waterfall",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -261,
+            "y": 38,
+            "z": -4612
+        }
+    },
+    {
+        "name": "Almuj City",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 884,
+            "y": 68,
+            "z": -1956
+        }
+    },
+    {
+        "name": "Ancient Nemract",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 224,
+            "y": 46,
+            "z": -1956
+        }
+    },
+    {
+        "name": "Angel Refuge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1385,
+            "y": 59,
+            "z": -4810
+        }
+    },
+    {
+        "name": "Arachnid Route (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -160,
+            "y": 64,
+            "z": -1840
+        }
+    },
+    {
+        "name": "Astraulus' Tower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1206,
+            "y": 126,
+            "z": -4922
+        }
+    },
+    {
+        "name": "Avos Temple",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1509,
+            "y": 136,
+            "z": -3302
+        }
+    },
+    {
+        "name": "Avos Workshop",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1789,
+            "y": 110,
+            "z": -3280
+        }
+    },
+    {
+        "name": "Azure Frontier",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -777,
+            "y": 83,
+            "z": -6250
+        }
+    },
+    {
+        "name": "Bandit Camp Exit",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 260,
+            "y": 79,
+            "z": -4931
+        }
+    },
+    {
+        "name": "Bandit Cave Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 118,
+            "y": 43,
+            "z": -4975
+        }
+    },
+    {
+        "name": "Bandit Cave Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 117,
+            "y": 43,
+            "z": -4886
+        }
+    },
+    {
+        "name": "Bandits Toll",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 424,
+            "y": 79,
+            "z": -5052
+        }
+    },
+    {
+        "name": "Bizarre Passage",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1321,
+            "y": 87,
+            "z": -661
+        }
+    },
+    {
+        "name": "Bloody Beach",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1209,
+            "y": 38,
+            "z": -3345
+        }
+    },
+    {
+        "name": "Bob's Tomb",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 254,
+            "y": 77,
+            "z": -755
+        }
+    },
+    {
+        "name": "Bremminglar",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 713,
+            "y": 71,
+            "z": -2102
+        }
+    },
+    {
+        "name": "Burning Airship",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 77,
+            "y": 43,
+            "z": -4910
+        }
+    },
+    {
+        "name": "Burning Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 74,
+            "y": 42,
+            "z": -4826
+        }
+    },
+    {
+        "name": "Canyon Dropoff",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 303,
+            "y": 100,
+            "z": -4439
+        }
+    },
+    {
+        "name": "Canyon Entrance Waterfall",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 178,
+            "y": 80,
+            "z": -4775
+        }
+    },
+    {
+        "name": "Canyon Fortress",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 325,
+            "y": 61,
+            "z": -4681
+        }
+    },
+    {
+        "name": "Canyon High Path",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 497,
+            "y": 28,
+            "z": -5248
+        }
+    },
+    {
+        "name": "Canyon Lower South East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 233,
+            "y": 94,
+            "z": -4588
+        }
+    },
+    {
+        "name": "Canyon Mountain East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 302,
+            "y": 95,
+            "z": -4999
+        }
+    },
+    {
+        "name": "Canyon Mountain South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 334,
+            "y": 66,
+            "z": -4921
+        }
+    },
+    {
+        "name": "Canyon Of The Lost",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 464,
+            "y": 28,
+            "z": -4469
+        }
+    },
+    {
+        "name": "Canyon Path North Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 210,
+            "y": 79,
+            "z": -4785
+        }
+    },
+    {
+        "name": "Canyon Path North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 112,
+            "y": 75,
+            "z": -4692
+        }
+    },
+    {
+        "name": "Canyon Path South East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 155,
+            "y": 71,
+            "z": -4639
+        }
+    },
+    {
+        "name": "Canyon Path South West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 222,
+            "y": 80,
+            "z": -4712
+        }
+    },
+    {
+        "name": "Canyon Survivor",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 305,
+            "y": 114,
+            "z": -4535
+        }
+    },
+    {
+        "name": "Canyon Upper North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 215,
+            "y": 106,
+            "z": -4467
+        }
+    },
+    {
+        "name": "Canyon Valley South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 229,
+            "y": 79,
+            "z": -5000
+        }
+    },
+    {
+        "name": "Canyon Walk Way",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 316,
+            "y": 30,
+            "z": -5110
+        }
+    },
+    {
+        "name": "Canyon Waterfall Mid North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 286,
+            "y": 70,
+            "z": -4798
+        }
+    },
+    {
+        "name": "Canyon Waterfall North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 152,
+            "y": 70,
+            "z": -4418
+        }
+    },
+    {
+        "name": "Cathedral Harbour",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 488,
+            "y": 49,
+            "z": -2091
+        }
+    },
+    {
+        "name": "Central Islands",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1192,
+            "y": 53,
+            "z": -4667
+        }
+    },
+    {
+        "name": "Chained House",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 661,
+            "y": 90,
+            "z": -5327
+        }
+    },
+    {
+        "name": "Cherry Blossom Forest",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 604,
+            "y": 98,
+            "z": -5487
+        }
+    },
+    {
+        "name": "Cinfras",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -463,
+            "y": 47,
+            "z": -4947
+        }
+    },
+    {
+        "name": "Cinfras County Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -75,
+            "y": 37,
+            "z": -4698
+        }
+    },
+    {
+        "name": "Cinfras County Mid-Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -13,
+            "y": 39,
+            "z": -4845
+        }
+    },
+    {
+        "name": "Cinfras County Mid-Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -52,
+            "y": 40,
+            "z": -4986
+        }
+    },
+    {
+        "name": "Cinfras County Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -76,
+            "y": 34,
+            "z": -5097
+        }
+    },
+    {
+        "name": "Cinfras Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -562,
+            "y": 47,
+            "z": -4943
+        }
+    },
+    {
+        "name": "Cinfras Outskirts",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -455,
+            "y": 44,
+            "z": -5204
+        }
+    },
+    {
+        "name": "Cinfras Thanos Transition",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 69,
+            "y": 45,
+            "z": -4990
+        }
+    },
+    {
+        "name": "Cinfras's Small Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -174,
+            "y": 37,
+            "z": -4713
+        }
+    },
+    {
+        "name": "City of Troms",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -812,
+            "y": 71,
+            "z": -919
+        }
+    },
+    {
+        "name": "Cliff Side of the Lost",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 371,
+            "y": 56,
+            "z": -4444
+        }
+    },
+    {
+        "name": "Cliffside Lake",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 554,
+            "y": 28,
+            "z": -4645
+        }
+    },
+    {
+        "name": "Cliffside Passage",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 637,
+            "y": 54,
+            "z": -4762
+        }
+    },
+    {
+        "name": "Cliffside Passage North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 591,
+            "y": 50,
+            "z": -4899
+        }
+    },
+    {
+        "name": "Cliffside Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 502,
+            "y": 28,
+            "z": -4997
+        }
+    },
+    {
+        "name": "Cliffside Waterfall",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 520,
+            "y": 29,
+            "z": -5122
+        }
+    },
+    {
+        "name": "Coastal Trail",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -643,
+            "y": 38,
+            "z": -2026
+        }
+    },
+    {
+        "name": "Corkus Castle",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1472,
+            "y": 111,
+            "z": -2910
+        }
+    },
+    {
+        "name": "Corkus City",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1610,
+            "y": 69,
+            "z": -2936
+        }
+    },
+    {
+        "name": "Corkus City Mine",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1414,
+            "y": 86,
+            "z": -2792
+        }
+    },
+    {
+        "name": "Corkus City South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1616,
+            "y": 69,
+            "z": -2776
+        }
+    },
+    {
+        "name": "Corkus Countryside",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1587,
+            "y": 73,
+            "z": -3100
+        }
+    },
+    {
+        "name": "Corkus Docks",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1912,
+            "y": 41,
+            "z": -3134
+        }
+    },
+    {
+        "name": "Corkus Forest North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1714,
+            "y": 63,
+            "z": -2911
+        }
+    },
+    {
+        "name": "Corkus Forest South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1721,
+            "y": 69,
+            "z": -2798
+        }
+    },
+    {
+        "name": "Corkus Mountain",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1799,
+            "y": 128,
+            "z": -3085
+        }
+    },
+    {
+        "name": "Corkus Outskirts",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1425,
+            "y": 134,
+            "z": -3150
+        }
+    },
+    {
+        "name": "Corkus Sea Cove",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1490,
+            "y": 70,
+            "z": -2619
+        }
+    },
+    {
+        "name": "Corkus Sea Port",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1560,
+            "y": 99,
+            "z": -2400
+        }
+    },
+    {
+        "name": "Corkus Statue",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1347,
+            "y": 109,
+            "z": -2883
+        }
+    },
+    {
+        "name": "Corrupted Road",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 57,
+            "y": 69,
+            "z": -1318
+        }
+    },
+    {
+        "name": "Crater Descent",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1326,
+            "y": 10,
+            "z": -5139
+        }
+    },
+    {
+        "name": "Dark Forest Cinfras Transition",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -348,
+            "y": 36,
+            "z": -5203
+        }
+    },
+    {
+        "name": "Dark Forest Village",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -608,
+            "y": 43,
+            "z": -5168
+        }
+    },
+    {
+        "name": "Dead Island North East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 887,
+            "y": 48,
+            "z": -3968
+        }
+    },
+    {
+        "name": "Dead Island North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 842,
+            "y": 52,
+            "z": -3976
+        }
+    },
+    {
+        "name": "Dead Island South East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 890,
+            "y": 48,
+            "z": -3899
+        }
+    },
+    {
+        "name": "Dead Island South West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 781,
+            "y": 35,
+            "z": -3888
+        }
+    },
+    {
+        "name": "Decayed Basin",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -477,
+            "y": 47,
+            "z": -5453
+        }
+    },
+    {
+        "name": "Dernel Jungle Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -612,
+            "y": 24,
+            "z": -423
+        }
+    },
+    {
+        "name": "Dernel Jungle Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -868,
+            "y": 23,
+            "z": -366
+        }
+    },
+    {
+        "name": "Dernel Jungle Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -938,
+            "y": 24,
+            "z": -684
+        }
+    },
+    {
+        "name": "Desert East Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1317,
+            "y": 77,
+            "z": -1824
+        }
+    },
+    {
+        "name": "Desert East Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1393,
+            "y": 85,
+            "z": -2103
+        }
+    },
+    {
+        "name": "Desert East Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1374,
+            "y": 85,
+            "z": -2175
+        }
+    },
+    {
+        "name": "Desert Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1095,
+            "y": 72,
+            "z": -1777
+        }
+    },
+    {
+        "name": "Desert Mid-Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1153,
+            "y": 77,
+            "z": -1889
+        }
+    },
+    {
+        "name": "Desert Mid-Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1158,
+            "y": 77,
+            "z": -2057
+        }
+    },
+    {
+        "name": "Desert Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1068,
+            "y": 75,
+            "z": -2183
+        }
+    },
+    {
+        "name": "Desert West Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 988,
+            "y": 71,
+            "z": -1796
+        }
+    },
+    {
+        "name": "Desert West Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 931,
+            "y": 60,
+            "z": -2147
+        }
+    },
+    {
+        "name": "Desolate Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 381,
+            "y": 70,
+            "z": -1120
+        }
+    },
+    {
+        "name": "Detlas",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 486,
+            "y": 68,
+            "z": -1588
+        }
+    },
+    {
+        "name": "Detlas Close Suburbs",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 341,
+            "y": 68,
+            "z": -1578
+        }
+    },
+    {
+        "name": "Detlas Far Suburbs",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 66,
+            "y": 64,
+            "z": -1590
+        }
+    },
+    {
+        "name": "Detlas Savannah Transition",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 607,
+            "y": 68,
+            "z": -1601
+        }
+    },
+    {
+        "name": "Detlas Suburbs",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 201,
+            "y": 69,
+            "z": -1577
+        }
+    },
+    {
+        "name": "Detlas Trail East Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 350,
+            "y": 70,
+            "z": -1743
+        }
+    },
+    {
+        "name": "Detlas Trail West Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 62,
+            "y": 67,
+            "z": -1660
+        }
+    },
+    {
+        "name": "Dragonling Nests",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1094,
+            "y": 114,
+            "z": -4999
+        }
+    },
+    {
+        "name": "Dujgon Nation",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 991,
+            "y": 38,
+            "z": -3454
+        }
+    },
+    {
+        "name": "Durum Isles Center",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 456,
+            "y": 43,
+            "z": -2915
+        }
+    },
+    {
+        "name": "Durum Isles East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 516,
+            "y": 41,
+            "z": -2809
+        }
+    },
+    {
+        "name": "Durum Isles Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 365,
+            "y": 39,
+            "z": -2821
+        }
+    },
+    {
+        "name": "Durum Isles Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 561,
+            "y": 38,
+            "z": -2964
+        }
+    },
+    {
+        "name": "Efilim East Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -958,
+            "y": 49,
+            "z": -4977
+        }
+    },
+    {
+        "name": "Efilim South East Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -974,
+            "y": 46,
+            "z": -4916
+        }
+    },
+    {
+        "name": "Efilim South Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1073,
+            "y": 44,
+            "z": -4887
+        }
+    },
+    {
+        "name": "Efilim Village",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1062,
+            "y": 43,
+            "z": -4991
+        }
+    },
+    {
+        "name": "Elkurn",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2,
+            "y": 75,
+            "z": -1163
+        }
+    },
+    {
+        "name": "Elkurn Fields",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -245,
+            "y": 71,
+            "z": -1217
+        }
+    },
+    {
+        "name": "Eltom",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 976,
+            "y": 107,
+            "z": -5497
+        }
+    },
+    {
+        "name": "Emerald Trail",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -543,
+            "y": 68,
+            "z": -1601
+        }
+    },
+    {
+        "name": "Entrance to Kander",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -879,
+            "y": 47,
+            "z": -5274
+        }
+    },
+    {
+        "name": "Entrance to Olux",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1673,
+            "y": 54,
+            "z": -5283
+        }
+    },
+    {
+        "name": "Entrance to Rodoroc",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 954,
+            "y": 43,
+            "z": -5299
+        }
+    },
+    {
+        "name": "Entrance to Thesead North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 673,
+            "y": 78,
+            "z": -5014
+        }
+    },
+    {
+        "name": "Entrance to Thesead South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 655,
+            "y": 78,
+            "z": -5082
+        }
+    },
+    {
+        "name": "Factory Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1717,
+            "y": 76,
+            "z": -2627
+        }
+    },
+    {
+        "name": "Fallen Factory",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1670,
+            "y": 82,
+            "z": -2599
+        }
+    },
+    {
+        "name": "Fallen Village",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -318,
+            "y": 44,
+            "z": -5319
+        }
+    },
+    {
+        "name": "Field of Life",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -851,
+            "y": 49,
+            "z": -6089
+        }
+    },
+    {
+        "name": "Final Step",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1305,
+            "y": 82,
+            "z": -879
+        }
+    },
+    {
+        "name": "Fleris Trail",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1327,
+            "y": 45,
+            "z": -4557
+        }
+    },
+    {
+        "name": "Forest of Eyes",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 895,
+            "y": 77,
+            "z": -475
+        }
+    },
+    {
+        "name": "Forgotten Path",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1587,
+            "y": 52,
+            "z": -4989
+        }
+    },
+    {
+        "name": "Forgotten Town",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 689,
+            "y": 91,
+            "z": -427
+        }
+    },
+    {
+        "name": "Fortress North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1358,
+            "y": 44,
+            "z": -5341
+        }
+    },
+    {
+        "name": "Fortress South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1390,
+            "y": 50,
+            "z": -5124
+        }
+    },
+    {
+        "name": "Frozen Fort",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1564,
+            "y": 190,
+            "z": -4587
+        }
+    },
+    {
+        "name": "Fungal Grove",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -532,
+            "y": 48,
+            "z": -5341
+        }
+    },
+    {
+        "name": "Gateway to Nothing",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1158,
+            "y": 79,
+            "z": -961
+        }
+    },
+    {
+        "name": "Gelibord",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1002,
+            "y": 48,
+            "z": -5281
+        }
+    },
+    {
+        "name": "Gelibord Castle",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1103,
+            "y": 43,
+            "z": -5515
+        }
+    },
+    {
+        "name": "Gelibord Corrupted Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1132,
+            "y": 43,
+            "z": -5383
+        }
+    },
+    {
+        "name": "Gert Camp",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -16,
+            "y": 35,
+            "z": -5526
+        }
+    },
+    {
+        "name": "Ghostly Path",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 68,
+            "y": 44,
+            "z": -4688
+        }
+    },
+    {
+        "name": "Goblin Plains East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1588,
+            "y": 52,
+            "z": -4952
+        }
+    },
+    {
+        "name": "Goblin Plains West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1674,
+            "y": 56,
+            "z": -4951
+        }
+    },
+    {
+        "name": "Great Bridge Jungle",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -509,
+            "y": 68,
+            "z": -690
+        }
+    },
+    {
+        "name": "Great Bridge Nesaak",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -362,
+            "y": 30,
+            "z": -668
+        }
+    },
+    {
+        "name": "Grey Ruins",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 585,
+            "y": 90,
+            "z": -555
+        }
+    },
+    {
+        "name": "Guild Hall",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -304,
+            "y": 47,
+            "z": -4910
+        }
+    },
+    {
+        "name": "Gylia Lake North East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -41,
+            "y": 29,
+            "z": -5352
+        }
+    },
+    {
+        "name": "Gylia Lake North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -176,
+            "y": 27,
+            "z": -5389
+        }
+    },
+    {
+        "name": "Gylia Lake South East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -51,
+            "y": 33,
+            "z": -5240
+        }
+    },
+    {
+        "name": "Gylia Lake South West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -210,
+            "y": 31,
+            "z": -5216
+        }
+    },
+    {
+        "name": "Half Moon Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1076,
+            "y": 35,
+            "z": -2579
+        }
+    },
+    {
+        "name": "Heart of Decay",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -567,
+            "y": 50,
+            "z": -5520
+        }
+    },
+    {
+        "name": "Heavenly Ingress",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -828,
+            "y": 56,
+            "z": -5981
+        }
+    },
+    {
+        "name": "Herb Cave",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -510,
+            "y": 65,
+            "z": -826
+        }
+    },
+    {
+        "name": "Hive",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 334,
+            "y": 31,
+            "z": -5450
+        }
+    },
+    {
+        "name": "Hive South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 484,
+            "y": 27,
+            "z": -5392
+        }
+    },
+    {
+        "name": "Hobbit River",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -882,
+            "y": 43,
+            "z": -4503
+        }
+    },
+    {
+        "name": "Icy Descent",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -241,
+            "y": 24,
+            "z": -403
+        }
+    },
+    {
+        "name": "Icy Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1078,
+            "y": 56,
+            "z": -3332
+        }
+    },
+    {
+        "name": "Iron Road",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1631,
+            "y": 61,
+            "z": -5033
+        }
+    },
+    {
+        "name": "Jitak's Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -162,
+            "y": 34,
+            "z": -5459
+        }
+    },
+    {
+        "name": "Jofash Docks",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1256,
+            "y": 36,
+            "z": -4111
+        }
+    },
+    {
+        "name": "Jofash Tunnel",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1255,
+            "y": 48,
+            "z": -4321
+        }
+    },
+    {
+        "name": "Jungle Lake",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -640,
+            "y": 60,
+            "z": -892
+        }
+    },
+    {
+        "name": "Jungle Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -563,
+            "y": 63,
+            "z": -691
+        }
+    },
+    {
+        "name": "Jungle Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -614,
+            "y": 62,
+            "z": -649
+        }
+    },
+    {
+        "name": "Jungle Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -753,
+            "y": 67,
+            "z": -711
+        }
+    },
+    {
+        "name": "Kander Mines",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -756,
+            "y": 44,
+            "z": -5169
+        }
+    },
+    {
+        "name": "Kandon Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 675,
+            "y": 87,
+            "z": -4640
+        }
+    },
+    {
+        "name": "Kandon Ridge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 817,
+            "y": 65,
+            "z": -4712
+        }
+    },
+    {
+        "name": "Kandon-Beda (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 640,
+            "y": 49,
+            "z": -4448
+        }
+    },
+    {
+        "name": "Katoa Ranch",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -810,
+            "y": 68,
+            "z": -1914
+        }
+    },
+    {
+        "name": "Krolton's Cave",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 388,
+            "y": 28,
+            "z": -4900
+        }
+    },
+    {
+        "name": "Lava Lake",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1436,
+            "y": 17,
+            "z": -5450
+        }
+    },
+    {
+        "name": "Lava Lake Bridge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1308,
+            "y": 8,
+            "z": -5300
+        }
+    },
+    {
+        "name": "Leadin Fortress",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1361,
+            "y": 52,
+            "z": -4782
+        }
+    },
+    {
+        "name": "Legendary Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1094,
+            "y": 41,
+            "z": -2507
+        }
+    },
+    {
+        "name": "Lexdale",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -593,
+            "y": 61,
+            "z": -5441
+        }
+    },
+    {
+        "name": "Lexdales Prison",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -815,
+            "y": 84,
+            "z": -5524
+        }
+    },
+    {
+        "name": "Light Forest Canyon",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -779,
+            "y": 45,
+            "z": -4744
+        }
+    },
+    {
+        "name": "Light Forest East Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -889,
+            "y": 44,
+            "z": -4671
+        }
+    },
+    {
+        "name": "Light Forest East Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -862,
+            "y": 44,
+            "z": -4822
+        }
+    },
+    {
+        "name": "Light Forest East Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -889,
+            "y": 58,
+            "z": -4883
+        }
+    },
+    {
+        "name": "Light Forest Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1115,
+            "y": 44,
+            "z": -4642
+        }
+    },
+    {
+        "name": "Light Forest North Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1111,
+            "y": 47,
+            "z": -4787
+        }
+    },
+    {
+        "name": "Light Forest North Exit",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -717,
+            "y": 44,
+            "z": -4820
+        }
+    },
+    {
+        "name": "Light Forest South Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1099,
+            "y": 44,
+            "z": -4472
+        }
+    },
+    {
+        "name": "Light Forest South Exit",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -681,
+            "y": 47,
+            "z": -4675
+        }
+    },
+    {
+        "name": "Light Forest West Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1006,
+            "y": 44,
+            "z": -4538
+        }
+    },
+    {
+        "name": "Light Forest West Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -957,
+            "y": 45,
+            "z": -4597
+        }
+    },
+    {
+        "name": "Light Forest West Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -977,
+            "y": 46,
+            "z": -4806
+        }
+    },
+    {
+        "name": "Light Peninsula (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -860,
+            "y": 49,
+            "z": -4400
+        }
+    },
+    {
+        "name": "Lighthouse Plateau",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1526,
+            "y": 77,
+            "z": -2231
+        }
+    },
+    {
+        "name": "Lion Lair (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 800,
+            "y": 91,
+            "z": -2180
+        }
+    },
+    {
+        "name": "Little Wood",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -648,
+            "y": 100,
+            "z": -1134
+        }
+    },
+    {
+        "name": "Llevigar",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1998,
+            "y": 35,
+            "z": -4572
+        }
+    },
+    {
+        "name": "Llevigar Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2011,
+            "y": 36,
+            "z": -4395
+        }
+    },
+    {
+        "name": "Llevigar Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1597,
+            "y": 48,
+            "z": -4772
+        }
+    },
+    {
+        "name": "Llevigar Farm Plains East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1989,
+            "y": 45,
+            "z": -4799
+        }
+    },
+    {
+        "name": "Llevigar Farm Plains West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2155,
+            "y": 48,
+            "z": -4805
+        }
+    },
+    {
+        "name": "Llevigar Gate East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1990,
+            "y": 35,
+            "z": -4655
+        }
+    },
+    {
+        "name": "Llevigar Gate West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2062,
+            "y": 42,
+            "z": -4703
+        }
+    },
+    {
+        "name": "Llevigar Plains East Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2018,
+            "y": 45,
+            "z": -4847
+        }
+    },
+    {
+        "name": "Llevigar Plains East Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2005,
+            "y": 53,
+            "z": -4968
+        }
+    },
+    {
+        "name": "Llevigar Plains West Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2084,
+            "y": 46,
+            "z": -4855
+        }
+    },
+    {
+        "name": "Llevigar Plains West Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2118,
+            "y": 56,
+            "z": -4964
+        }
+    },
+    {
+        "name": "Loamsprout Camp",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1691,
+            "y": 51,
+            "z": -4695
+        }
+    },
+    {
+        "name": "Lone Farmstead",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -987,
+            "y": 53,
+            "z": -5226
+        }
+    },
+    {
+        "name": "Lost Atoll (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -580,
+            "y": 40,
+            "z": -3550
+        }
+    },
+    {
+        "name": "Luminous Plateau",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -943,
+            "y": 65,
+            "z": -6055
+        }
+    },
+    {
+        "name": "Lusuco",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -198,
+            "y": 29,
+            "z": -324
+        }
+    },
+    {
+        "name": "Lutho",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 973,
+            "y": 77,
+            "z": -744
+        }
+    },
+    {
+        "name": "Mage Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 876,
+            "y": 46,
+            "z": -2884
+        }
+    },
+    {
+        "name": "Maltic",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -560,
+            "y": 49,
+            "z": -1929
+        }
+    },
+    {
+        "name": "Maltic Coast",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -460,
+            "y": 36,
+            "z": -2021
+        }
+    },
+    {
+        "name": "Maltic Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -521,
+            "y": 63,
+            "z": -1809
+        }
+    },
+    {
+        "name": "Mansion of Insanity",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1169,
+            "y": 46,
+            "z": -5227
+        }
+    },
+    {
+        "name": "Mantis Nest",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -789,
+            "y": 29,
+            "z": -4668
+        }
+    },
+    {
+        "name": "Maro Peaks",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 159,
+            "y": 38,
+            "z": -3823
+        }
+    },
+    {
+        "name": "Mesquis Tower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -778,
+            "y": 58,
+            "z": -5035
+        }
+    },
+    {
+        "name": "Meteor Crater",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1708,
+            "y": 56,
+            "z": -5033
+        }
+    },
+    {
+        "name": "Military Base",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 117,
+            "y": 50,
+            "z": -5440
+        }
+    },
+    {
+        "name": "Military Base Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 220,
+            "y": 78,
+            "z": -5363
+        }
+    },
+    {
+        "name": "Military Base Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 220,
+            "y": 138,
+            "z": -5472
+        }
+    },
+    {
+        "name": "Mine Base Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 572,
+            "y": 71,
+            "z": -1206
+        }
+    },
+    {
+        "name": "Mining Base Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 732,
+            "y": 31,
+            "z": -1173
+        }
+    },
+    {
+        "name": "Mining Base Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 778,
+            "y": 30,
+            "z": -1309
+        }
+    },
+    {
+        "name": "Molten Heights Portal",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1450,
+            "y": 16,
+            "z": -5152
+        }
+    },
+    {
+        "name": "Molten Reach",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1256,
+            "y": 129,
+            "z": -4927
+        }
+    },
+    {
+        "name": "Mountain Edge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 388,
+            "y": 63,
+            "z": -4363
+        }
+    },
+    {
+        "name": "Mountain Path",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 319,
+            "y": 122,
+            "z": -4355
+        }
+    },
+    {
+        "name": "Mummy's Tomb",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1045,
+            "y": 83,
+            "z": -2299
+        }
+    },
+    {
+        "name": "Mushroom Hill",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -319,
+            "y": 45,
+            "z": -5537
+        }
+    },
+    {
+        "name": "Nemract Cathedral",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 304,
+            "y": 43,
+            "z": -2144
+        }
+    },
+    {
+        "name": "Nemract Plains East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 51,
+            "y": 60,
+            "z": -1837
+        }
+    },
+    {
+        "name": "Nemract Plains West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -30,
+            "y": 59,
+            "z": -1872
+        }
+    },
+    {
+        "name": "Nemract Quarry (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -76,
+            "y": 78,
+            "z": -2017
+        }
+    },
+    {
+        "name": "Nemract Road",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 129,
+            "y": 48,
+            "z": -1992
+        }
+    },
+    {
+        "name": "Nemract Town",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 127,
+            "y": 41,
+            "z": -2190
+        }
+    },
+    {
+        "name": "Nesaak Bridge Transition",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -215,
+            "y": 69,
+            "z": -686
+        }
+    },
+    {
+        "name": "Nesaak Plains Lower North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -89,
+            "y": 70,
+            "z": -893
+        }
+    },
+    {
+        "name": "Nesaak Plains Mid North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -161,
+            "y": 68,
+            "z": -918
+        }
+    },
+    {
+        "name": "Nesaak Plains North East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 140,
+            "y": 72,
+            "z": -902
+        }
+    },
+    {
+        "name": "Nesaak Plains South East (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 160,
+            "y": 71,
+            "z": -720
+        }
+    },
+    {
+        "name": "Nesaak Plains South West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -50,
+            "y": 69,
+            "z": -770
+        }
+    },
+    {
+        "name": "Nesaak Plains Upper North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -53,
+            "y": 74,
+            "z": -1018
+        }
+    },
+    {
+        "name": "Nesaak Transition",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 246,
+            "y": 85,
+            "z": -1083
+        }
+    },
+    {
+        "name": "Nesaak Village",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 115,
+            "y": 74,
+            "z": -771
+        }
+    },
+    {
+        "name": "Nether Gate",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 285,
+            "y": 32,
+            "z": -1280
+        }
+    },
+    {
+        "name": "Nether Plains Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 300,
+            "y": 88,
+            "z": -1195
+        }
+    },
+    {
+        "name": "Nether Plains Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 269,
+            "y": 68,
+            "z": -1441
+        }
+    },
+    {
+        "name": "Nexus of Light",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -719,
+            "y": 100,
+            "z": -6420
+        }
+    },
+    {
+        "name": "Nivla Woods",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -256,
+            "y": 69,
+            "z": -1574
+        }
+    },
+    {
+        "name": "Nivla Woods Edge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -48,
+            "y": 65,
+            "z": -1594
+        }
+    },
+    {
+        "name": "Nivla Woods Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -432,
+            "y": 69,
+            "z": -1599
+        }
+    },
+    {
+        "name": "Nivla Woods Exit",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -148,
+            "y": 70,
+            "z": -1565
+        }
+    },
+    {
+        "name": "Nodguj Nation",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 815,
+            "y": 59,
+            "z": -3358
+        }
+    },
+    {
+        "name": "North Farmers Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -278,
+            "y": 77,
+            "z": -1996
+        }
+    },
+    {
+        "name": "North Nivla Woods",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -116,
+            "y": 72,
+            "z": -1723
+        }
+    },
+    {
+        "name": "Old Coal Mine",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 797,
+            "y": 41,
+            "z": -4800
+        }
+    },
+    {
+        "name": "Old Crossroads North",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -586,
+            "y": 45,
+            "z": -5328
+        }
+    },
+    {
+        "name": "Old Crossroads South",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -568,
+            "y": 44,
+            "z": -5240
+        }
+    },
+    {
+        "name": "Olux",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1748,
+            "y": 67,
+            "z": -5517
+        }
+    },
+    {
+        "name": "Orc Battlegrounds",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1350,
+            "y": 50,
+            "z": -4883
+        }
+    },
+    {
+        "name": "Orc Lake",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1873,
+            "y": 51,
+            "z": -4907
+        }
+    },
+    {
+        "name": "Orc Road",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1849,
+            "y": 47,
+            "z": -4786
+        }
+    },
+    {
+        "name": "Otherwordly Monolith",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -700,
+            "y": 65,
+            "z": -6032
+        }
+    },
+    {
+        "name": "Path To Military Base",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 102,
+            "y": 45,
+            "z": -5352
+        }
+    },
+    {
+        "name": "Path To Ozoth's Spire Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 224,
+            "y": 87,
+            "z": -5203
+        }
+    },
+    {
+        "name": "Path To Ozoth's Spire Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 260,
+            "y": 70,
+            "z": -5098
+        }
+    },
+    {
+        "name": "Path To Ozoth's Spire Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 174,
+            "y": 124,
+            "z": -5162
+        }
+    },
+    {
+        "name": "Path To Thanos",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 71,
+            "y": 43,
+            "z": -5061
+        }
+    },
+    {
+        "name": "Path To The Arch",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 66,
+            "y": 44,
+            "z": -4583
+        }
+    },
+    {
+        "name": "Path to Ahmsord Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 839,
+            "y": 111,
+            "z": -4538
+        }
+    },
+    {
+        "name": "Path to Ahmsord Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 852,
+            "y": 63,
+            "z": -4599
+        }
+    },
+    {
+        "name": "Path to Cinfras",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -751,
+            "y": 44,
+            "z": -4913
+        }
+    },
+    {
+        "name": "Path to Light",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -792,
+            "y": 49,
+            "z": -6117
+        }
+    },
+    {
+        "name": "Path to Talor",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -730,
+            "y": 47,
+            "z": -5327
+        }
+    },
+    {
+        "name": "Paths of Sludge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 938,
+            "y": 73,
+            "z": -821
+        }
+    },
+    {
+        "name": "Phinas Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1712,
+            "y": 72,
+            "z": -2117
+        }
+    },
+    {
+        "name": "Pigmen Ravines",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -673,
+            "y": 94,
+            "z": -1390
+        }
+    },
+    {
+        "name": "Pigmen Ravines Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -874,
+            "y": 74,
+            "z": -1384
+        }
+    },
+    {
+        "name": "Pirate Town",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -673,
+            "y": 35,
+            "z": -3159
+        }
+    },
+    {
+        "name": "Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -352,
+            "y": 70,
+            "z": -1767
+        }
+    },
+    {
+        "name": "Plains Coast",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -110,
+            "y": 49,
+            "z": -2181
+        }
+    },
+    {
+        "name": "Plains Lake",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 474,
+            "y": 78,
+            "z": -1324
+        }
+    },
+    {
+        "name": "Pre-Light Forest Transition",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1517,
+            "y": 46,
+            "z": -4735
+        }
+    },
+    {
+        "name": "Primal Fen",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -933,
+            "y": 47,
+            "z": -6179
+        }
+    },
+    {
+        "name": "Quartz Mines North East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1522,
+            "y": 44,
+            "z": -4579
+        }
+    },
+    {
+        "name": "Quartz Mines North West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1709,
+            "y": 56,
+            "z": -4619
+        }
+    },
+    {
+        "name": "Quartz Mines South East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1492,
+            "y": 46,
+            "z": -4516
+        }
+    },
+    {
+        "name": "Quartz Mines South West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1658,
+            "y": 47,
+            "z": -4380
+        }
+    },
+    {
+        "name": "Ragni",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -841,
+            "y": 69,
+            "z": -1526
+        }
+    },
+    {
+        "name": "Ragni East Suburbs",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -667,
+            "y": 67,
+            "z": -1731
+        }
+    },
+    {
+        "name": "Ragni Main Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -698,
+            "y": 68,
+            "z": -1578
+        }
+    },
+    {
+        "name": "Ragni North Entrance",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -866,
+            "y": 62,
+            "z": -1824
+        }
+    },
+    {
+        "name": "Ragni North Suburbs",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -783,
+            "y": 63,
+            "z": -1815
+        }
+    },
+    {
+        "name": "Ragni Plains",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -661,
+            "y": 67,
+            "z": -1869
+        }
+    },
+    {
+        "name": "Raider's Base Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1454,
+            "y": 100,
+            "z": -4299
+        }
+    },
+    {
+        "name": "Raider's Base Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1442,
+            "y": 83,
+            "z": -4377
+        }
+    },
+    {
+        "name": "Ranol's Farm",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 756,
+            "y": 45,
+            "z": -5441
+        }
+    },
+    {
+        "name": "Regular Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1310,
+            "y": 33,
+            "z": -3669
+        }
+    },
+    {
+        "name": "Road To Light Forest",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1291,
+            "y": 44,
+            "z": -4614
+        }
+    },
+    {
+        "name": "Road To Mine",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1520,
+            "y": 73,
+            "z": -2758
+        }
+    },
+    {
+        "name": "Road to Elkurn",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -53,
+            "y": 68,
+            "z": -1389
+        }
+    },
+    {
+        "name": "Road to Time Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -417,
+            "y": 68,
+            "z": -1444
+        }
+    },
+    {
+        "name": "Rodoroc",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1045,
+            "y": 18,
+            "z": -5135
+        }
+    },
+    {
+        "name": "Rooster Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -91,
+            "y": 45,
+            "z": -2494
+        }
+    },
+    {
+        "name": "Royal Gate",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1914,
+            "y": 58,
+            "z": -1768
+        }
+    },
+    {
+        "name": "Ruined Houses",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1739,
+            "y": 78,
+            "z": -2506
+        }
+    },
+    {
+        "name": "Rymek East Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1339,
+            "y": 32,
+            "z": -1317
+        }
+    },
+    {
+        "name": "Rymek East Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1315,
+            "y": 32,
+            "z": -1444
+        }
+    },
+    {
+        "name": "Rymek East Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1254,
+            "y": 86,
+            "z": -1662
+        }
+    },
+    {
+        "name": "Rymek West Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1161,
+            "y": 32,
+            "z": -1302
+        }
+    },
+    {
+        "name": "Rymek West Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1072,
+            "y": 32,
+            "z": -1420
+        }
+    },
+    {
+        "name": "Rymek West Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1135,
+            "y": 94,
+            "z": -1607
+        }
+    },
+    {
+        "name": "Sablestone Camp",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1725,
+            "y": 61,
+            "z": -4893
+        }
+    },
+    {
+        "name": "Sanctuary Bridge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -273,
+            "y": 81,
+            "z": -1052
+        }
+    },
+    {
+        "name": "Santa's Hideout",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1148,
+            "y": 43,
+            "z": -3118
+        }
+    },
+    {
+        "name": "Savannah East Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 868,
+            "y": 70,
+            "z": -1705
+        }
+    },
+    {
+        "name": "Savannah East Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 804,
+            "y": 70,
+            "z": -1969
+        }
+    },
+    {
+        "name": "Savannah West Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 724,
+            "y": 77,
+            "z": -1747
+        }
+    },
+    {
+        "name": "Savannah West Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 706,
+            "y": 78,
+            "z": -1967
+        }
+    },
+    {
+        "name": "Selchar",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 125,
+            "y": 66,
+            "z": -3190
+        }
+    },
+    {
+        "name": "Sinister Forest",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 989,
+            "y": 82,
+            "z": -540
+        }
+    },
+    {
+        "name": "Skiens Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 393,
+            "y": 44,
+            "z": -3413
+        }
+    },
+    {
+        "name": "Sky Castle",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 913,
+            "y": 90,
+            "z": -4413
+        }
+    },
+    {
+        "name": "Sky Falls",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1404,
+            "y": 115,
+            "z": -4614
+        }
+    },
+    {
+        "name": "Sky Island Ascent",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1265,
+            "y": 101,
+            "z": -4446
+        }
+    },
+    {
+        "name": "Snail Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 985,
+            "y": 135,
+            "z": -4814
+        }
+    },
+    {
+        "name": "South Farmers Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -440,
+            "y": 53,
+            "z": -1927
+        }
+    },
+    {
+        "name": "South Nivla Woods",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -266,
+            "y": 68,
+            "z": -1424
+        }
+    },
+    {
+        "name": "South Pigmen Ravines",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -744,
+            "y": 99,
+            "z": -1284
+        }
+    },
+    {
+        "name": "Southern Outpost",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1353,
+            "y": 96,
+            "z": -2286
+        }
+    },
+    {
+        "name": "Sunspark Camp",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1865,
+            "y": 55,
+            "z": -5041
+        }
+    },
+    {
+        "name": "Swamp Dark Forest Transition Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1555,
+            "y": 52,
+            "z": -5216
+        }
+    },
+    {
+        "name": "Swamp Dark Forest Transition Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1577,
+            "y": 53,
+            "z": -5463
+        }
+    },
+    {
+        "name": "Swamp Dark Forest Transition Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1585,
+            "y": 53,
+            "z": -5519
+        }
+    },
+    {
+        "name": "Swamp East Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2012,
+            "y": 56,
+            "z": -5018
+        }
+    },
+    {
+        "name": "Swamp East Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2007,
+            "y": 58,
+            "z": -5139
+        }
+    },
+    {
+        "name": "Swamp East Mid-Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1980,
+            "y": 55,
+            "z": -5218
+        }
+    },
+    {
+        "name": "Swamp East Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1974,
+            "y": 56,
+            "z": -5366
+        }
+    },
+    {
+        "name": "Swamp Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1143,
+            "y": 106,
+            "z": -4796
+        }
+    },
+    {
+        "name": "Swamp Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1702,
+            "y": 62,
+            "z": -5191
+        }
+    },
+    {
+        "name": "Swamp Mountain Base",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1815,
+            "y": 60,
+            "z": -5180
+        }
+    },
+    {
+        "name": "Swamp Mountain Transition Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2164,
+            "y": 55,
+            "z": -5511
+        }
+    },
+    {
+        "name": "Swamp Mountain Transition Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2113,
+            "y": 56,
+            "z": -5536
+        }
+    },
+    {
+        "name": "Swamp Mountain Transition Mid-Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2030,
+            "y": 56,
+            "z": -5550
+        }
+    },
+    {
+        "name": "Swamp Mountain Transition Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1928,
+            "y": 55,
+            "z": -5507
+        }
+    },
+    {
+        "name": "Swamp Plains Basin",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1834,
+            "y": 55,
+            "z": -5301
+        }
+    },
+    {
+        "name": "Swamp West Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2115,
+            "y": 71,
+            "z": -5055
+        }
+    },
+    {
+        "name": "Swamp West Mid",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2074,
+            "y": 58,
+            "z": -5143
+        }
+    },
+    {
+        "name": "Swamp West Mid-Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2097,
+            "y": 59,
+            "z": -5282
+        }
+    },
+    {
+        "name": "Swamp West Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -2097,
+            "y": 59,
+            "z": -5353
+        }
+    },
+    {
+        "name": "Taproot Descent",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1296,
+            "y": 45,
+            "z": -5496
+        }
+    },
+    {
+        "name": "Temple Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1089,
+            "y": 160,
+            "z": -4663
+        }
+    },
+    {
+        "name": "Temple of Legends",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -693,
+            "y": 75,
+            "z": -994
+        }
+    },
+    {
+        "name": "Temple of the Lost East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 348,
+            "y": 29,
+            "z": -4780
+        }
+    },
+    {
+        "name": "Ternaves",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 803,
+            "y": 74,
+            "z": -1614
+        }
+    },
+    {
+        "name": "Ternaves Plains Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 758,
+            "y": 52,
+            "z": -1376
+        }
+    },
+    {
+        "name": "Ternaves Plains Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 734,
+            "y": 65,
+            "z": -1531
+        }
+    },
+    {
+        "name": "Thanos",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 193,
+            "y": 6,
+            "z": -5242
+        }
+    },
+    {
+        "name": "Thanos Exit",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 292,
+            "y": 52,
+            "z": -5242
+        }
+    },
+    {
+        "name": "Thanos Exit Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 351,
+            "y": 51,
+            "z": -5249
+        }
+    },
+    {
+        "name": "Thanos Valley West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 265,
+            "y": 94,
+            "z": -5378
+        }
+    },
+    {
+        "name": "The Bear Zoo",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -335,
+            "y": 39,
+            "z": -2499
+        }
+    },
+    {
+        "name": "The Broken Road",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 611,
+            "y": 83,
+            "z": -851
+        }
+    },
+    {
+        "name": "The Gate",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1308,
+            "y": 107,
+            "z": -484
+        }
+    },
+    {
+        "name": "The Silent Road",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 602,
+            "y": 77,
+            "z": -1062
+        }
+    },
+    {
+        "name": "Thesead",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 749,
+            "y": 75,
+            "z": -5078
+        }
+    },
+    {
+        "name": "Thesead Suburbs",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 760,
+            "y": 45,
+            "z": -5314
+        }
+    },
+    {
+        "name": "Time Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -481,
+            "y": 72,
+            "z": -1173
+        }
+    },
+    {
+        "name": "Tower of Ascension",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -319,
+            "y": 15,
+            "z": -384
+        }
+    },
+    {
+        "name": "Toxic Caves",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 949,
+            "y": 124,
+            "z": -1067
+        }
+    },
+    {
+        "name": "Toxic Drip",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 980,
+            "y": 77,
+            "z": -950
+        }
+    },
+    {
+        "name": "Tree Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -388,
+            "y": 44,
+            "z": -3831
+        }
+    },
+    {
+        "name": "Twain Lake",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 16,
+            "y": 77,
+            "z": -459
+        }
+    },
+    {
+        "name": "Twain Mansion",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 95,
+            "y": 75,
+            "z": -357
+        }
+    },
+    {
+        "name": "Twisted Housing",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1063,
+            "y": 46,
+            "z": -5185
+        }
+    },
+    {
+        "name": "Twisted Ridge",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1012,
+            "y": 43,
+            "z": -5505
+        }
+    },
+    {
+        "name": "Valley of the Lost",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 385,
+            "y": 36,
+            "z": -4545
+        }
+    },
+    {
+        "name": "Viscera Pits East",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -730,
+            "y": 53,
+            "z": -5489
+        }
+    },
+    {
+        "name": "Viscera Pits West",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -826,
+            "y": 73,
+            "z": -5440
+        }
+    },
+    {
+        "name": "Void Valley",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1178,
+            "y": 133,
+            "z": -1143
+        }
+    },
+    {
+        "name": "Volcanic Slope",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1409,
+            "y": 69,
+            "z": -5614
+        }
+    },
+    {
+        "name": "Volcano Lower",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -1023,
+            "y": 41,
+            "z": -3657
+        }
+    },
+    {
+        "name": "Volcano Upper",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -804,
+            "y": 45,
+            "z": -3719
+        }
+    },
+    {
+        "name": "Wizard Tower North (No Banner)",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 380,
+            "y": 73,
+            "z": -5010
+        }
+    },
+    {
+        "name": "Worm Tunnel",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 584,
+            "y": 72,
+            "z": -712
+        }
+    },
+    {
+        "name": "Wybel Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": 1310,
+            "y": 66,
+            "z": -4685
+        }
+    },
+    {
+        "name": "Zhight Island",
+        "color": "#ff0000",
+        "icon": "flag",
+        "visibility": "default",
+        "location": {
+            "x": -604,
+            "y": 37,
+            "z": -2733
+        }
+    }
+]
